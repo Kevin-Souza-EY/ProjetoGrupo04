@@ -1,0 +1,1026 @@
+Name,Intelligence,Strength,Speed,Durability,Power,Combat,Tier
+Bomb,50,25,8,25,30,45,1
+Bubbles,0,0,0,0,0,0,0
+Chuck,55,6,65,25,40,55,1
+Hatchlings,0,0,0,0,0,0,0
+Matilda,55,6,7,25,25,45,1
+Mighty Eagle,60,25,25,25,25,60,1
+Red,60,6,8,30,10,50,1
+Terence,60,25,20,25,15,50,1
+Albus,45,6,25,25,80,45,6
+Alucard,80,100,7,100,100,90,7
+Barlowe,55,55,70,90,95,100,5
+Carmilla,0,0,0,0,0,0,0
+Carrie Fernandez,0,0,0,0,0,0,0
+Charlotte Aulin,0,0,0,0,0,0,0
+Christopher Belmont,0,0,0,0,0,0,0
+Dario Bossi,0,0,0,0,0,0,0
+Desmond Belmont,0,0,0,0,0,0,0
+Dmitrii Blinov,0,0,0,0,0,0,0
+Dracula,90,100,7,100,100,75,7
+Drolta Tzuentes,0,0,0,0,0,0,0
+Elizabeth Bartley,0,0,0,0,0,0,0
+Eric Lecarde,0,0,0,0,0,0,0
+Gabriel Belmont (The prince of darkness),90,85,7,90,90,100,7
+Galamoth,55,6,45,95,100,45,6
+Genya Arikado,0,0,0,0,0,0,0
+Graham Jones,60,6,25,25,90,45,6
+Hector,0,0,0,0,0,0,0
+Henry Oldrey,0,0,0,0,0,0,0
+Hugh Baldwin,0,0,0,0,0,0,0
+Joachim Armster,0,0,0,0,0,0,0
+John Morris,0,0,0,0,0,0,0
+Jonathan Morris,0,0,0,0,0,0,0
+Julia Laforeze,0,0,0,0,0,0,0
+Julius Belmont,0,0,0,0,0,0,0
+Juste Belmont,0,0,0,0,0,0,0
+Leon Belmont,70,6,90,100,100,100,6
+Lisa Tepes,0,0,0,0,0,0,0
+Loretta Lecarde,0,0,0,0,0,0,0
+Lydie Erlanger,0,0,0,0,0,0,0
+Maria Renard,0,0,0,0,0,0,0
+Maxim Kischine,0,0,0,0,0,0,0
+Menace,50,6,25,25,90,100,6
+Mina Hakuba,0,0,0,0,0,0,0
+Nathan Graves,0,0,0,0,0,0,0
+Reinhardt Schneider,55,5,55,80,80,70,5
+Richter Belmont,0,0,0,0,0,0,0
+Sara Trantoul,0,0,0,0,0,0,0
+Shaft (The dark priest),85,30,50,80,90,80,5
+Shanoa,0,0,0,0,0,0,0
+Simon Belmont,65,100,7,100,100,80,7
+Soma Cruz,0,0,0,0,0,0,0
+Sonia Belmont,0,0,0,0,0,0,0
+Stella Lecarde,0,0,0,0,0,0,0
+Sypha Belnades,0,0,0,0,0,0,0
+Sypha Belnades,85,6,85,80,90,90,6
+Trevor C. Belmont,0,0,0,0,0,0,0
+Yoko Belnades,0,0,0,0,0,0,0
+Zobek,90,6,65,80,80,90,6
+Alec,85,25,25,25,25,75,1
+Ames White,80,25,17,25,30,70,1
+Asha Barlow,55,6,6,25,0,25,1
+Ben,85,25,25,25,25,70,1
+Brin,85,25,25,25,25,70,1
+Dark Angel,85,25,25,25,25,80,1
+Detective Matt Sung,55,6,6,10,5,60,1
+Donald Lydecker,60,6,6,10,5,60,1
+Elizabeth Renfro,60,6,6,10,5,50,1
+Eyes Only,70,6,6,10,5,20,1
+Herbal Thought,55,6,6,10,0,10,1
+Joshua,65,25,25,25,25,45,1
+Normal,55,6,6,10,0,5,1
+Original Cindy,55,6,6,10,0,10,1
+Sketchy,50,6,6,10,0,10,1
+Thula,80,25,25,25,25,80,1
+Tinga,85,25,25,25,25,75,1
+Zack,85,25,25,25,25,75,1
+Aang (Avatar State),55,75,80,55,85,100,4
+Aang,60,25,50,25,80,95,3
+Amon,0,0,0,0,0,0,0
+Appa,40,25,20,25,25,25,1
+Avatar Korra,45,25,50,25,75,45,3
+Bolin,55,25,20,25,55,60,2
+Bolin,55,1,20,15,55,50,1
+Fire Lord,0,0,0,0,0,0,0
+Genji,75,25,25,25,25,75,3
+Ghazan,0,0,0,0,0,0,0
+Ikki,50,1,20,10,50,45,1
+Jeong Jeong,70,20,35,15,30,90,2
+Jinora,55,1,20,10,60,55,1
+Kai,0,0,0,0,0,0,0
+Katara (Full Moon),60,25,25,25,25,65,2
+Katara,60,25,20,25,70,65,2
+Korra (Avatar State),0,0,0,0,0,0,0
+Kya,55,20,20,10,60,55,1
+Kya,65,1,11,15,20,90,1
+Mako,55,20,20,15,55,65,2
+Meelo,50,1,20,10,50,40,1
+Ming Hua,45,20,25,25,65,45,2
+Momo,40,1,20,5,20,5,1
+Pakku,65,20,30,15,30,85,2
+Piandao,75,10,35,15,15,100,1
+Princess Azula,55,25,25,25,25,85,2
+Raava,0,0,0,0,0,0,0
+Suki,0,0,0,0,0,0,0
+Toph Beifong,55,55,25,25,70,90,2
+Toph Beifong,55,1,8,10,15,90,1
+Vaatu,70,5,25,25,60,60,2
+Zuko,65,25,30,25,50,75,2
+Atlas Destroyer,0,0,0,0,0,0,0
+Bracer Phoenix,55,75,25,25,55,40,3
+Cherno Alpha,55,75,25,25,40,40,2
+Coyote Tango,55,75,25,25,55,60,2
+Crimson Typhoon,55,75,25,25,25,65,2
+Gipsy Avenger,65,90,25,25,60,60,2
+Gipsy Danger,55,90,25,25,55,60,2
+Guardian Bravo,55,75,25,25,55,40,3
+Hakuja,50,75,25,25,45,45,3
+Horizon Brave,65,75,25,25,50,60,2
+Hundun,40,75,25,25,25,30,2
+Insurrector,45,75,25,25,25,45,2
+Insurrector,55,75,25,25,50,50,2
+Knifehead,55,75,25,25,35,40,2
+Leatherback,45,75,25,25,50,45,3
+Mega-Kaiju,45,75,25,25,60,45,3
+Mutavore,50,75,25,25,25,25,2
+Obsidian Fury,50,75,25,25,60,50,3
+Onibaba,35,75,25,25,25,45,2
+Otachi,55,75,25,25,55,40,3
+Raijin,50,75,25,25,50,40,3
+Raiju,45,75,25,25,35,45,3
+Romeo Blue,55,80,25,25,55,60,2
+Saber Athena,55,75,25,25,50,55,3
+Saber Athena,75,50,25,25,25,25,1
+Scunner,60,75,25,25,35,45,3
+Scunner,55,75,25,25,50,30,3
+Slattern,60,75,25,25,50,40,3
+Striker Eureka,60,75,25,25,50,65,3
+Tacit Ronin,55,85,25,25,55,65,2
+Trespasser,40,75,25,25,25,30,2
+Ana,0,0,0,0,0,0,0
+Ashe,45,1,1,15,20,45,1
+Baptiste,65,1,1,15,5,9,1
+Bastion,45,1,1,20,40,45,1
+Brigitte,0,0,0,0,0,0,0
+D.Va,0,0,0,0,0,0,0
+DoomFist,0,0,0,0,0,0,0
+Echo,95,25,20,25,25,20,1
+Genji,55,1,20,15,60,70,1
+Hanzo,55,1,1,17,60,90,1
+Junkrat,0,0,0,0,0,0,0
+Lucio,55,1,7,15,40,45,1
+McCree,0,0,0,0,0,0,0
+Mei,85,1,1,25,50,18,1
+Mercy,0,0,0,0,0,0,0
+Moira,0,0,0,0,0,0,0
+Orisa,0,0,0,0,0,0,0
+Pharah,55,13,1,15,55,45,1
+Reaper,65,13,25,25,25,80,1
+Reinhardt,0,0,0,0,0,0,0
+Roadhog,0,0,0,0,0,0,0
+Sigma,0,0,0,0,0,0,0
+Soldier 76,0,0,0,0,0,0,0
+Sombra,90,1,1,15,30,100,1
+Symmetra,80,1,11,15,40,10,1
+Torbj?rn,0,0,0,0,0,0,0
+Tracer,55,25,35,25,25,25,1
+Tracer,60,25,25,25,25,90,1
+Winston,0,0,0,0,0,0,0
+Wrecking Ball,0,0,0,0,0,0,0
+Zarya,0,0,0,0,0,0,0
+Zenyatta,0,0,0,0,0,0,0
+All For One,75,100,40,35,90,90,1
+All Might,75,100,50,90,90,90,3
+Bakugo(One For All),55,55,50,70,50,75,3
+Battle Fist,60,25,5,25,45,45,1
+Best Jeanist,55,100,35,25,50,80,1
+Camie Utsushimi,45,5,7,10,30,45,1
+Cementoss,55,50,25,25,30,50,1
+Comicman,55,1,5,10,55,20,1
+Dabi,55,1,25,25,50,70,1
+Deku (One For All 100%),75,100,75,70,100,85,3
+Deku,80,75,50,35,50,70,2
+Denki Kaminari,40,7,7,7,50,15,1
+Ectoplasm,55,25,25,25,25,45,1
+Edgeshot,55,25,30,25,55,85,1
+Eijiro Kirishima,55,25,25,25,25,60,1
+Endeavor,55,25,30,25,25,75,1
+Eraser Head,60,25,50,25,70,80,1
+Eri,40,1,5,5,85,5,1
+Fat Gum,55,85,25,25,25,85,1
+Fourth Kind,0,0,0,0,0,0,0
+Fumikage Tokoyami,55,25,25,25,25,70,1
+Gang Orca,55,30,30,20,60,70,1
+Gentle Criminal,55,25,25,25,25,25,1
+Gigantomachia,45,100,35,30,65,45,1
+Gran Torino,55,1,35,17,45,45,1
+Hanta Sera,55,6,7,25,30,15,1
+Hawks,65,25,35,25,45,45,1
+Himiko Toga,55,25,30,25,50,70,1
+Hiryu Rin,60,1,5,10,40,45,1
+Hitoshi shinso,60,20,25,25,50,1,1
+Hound Dog,40,25,25,25,25,25,1
+Ibara Shiozaki,55,20,5,5,45,45,1
+Inasa Yoarashi,45,25,25,25,25,45,1
+Invisible Girl,60,6,7,7,30,15,1
+Jurota Shishida,60,25,10,25,40,45,1
+Juzo Honenuki,65,1,5,5,40,45,1
+Kamui Woods,55,25,35,25,25,60,1
+Katsuki Bakugo,55,50,45,25,40,45,1
+Kendo Rappa,45,30,30,20,35,45,1
+Koji Koda,55,20,5,10,30,15,1
+Kojiro Bondo,55,5,5,5,35,40,1
+Kosei Tsuburaba,55,1,5,5,35,45,1
+Kurogiri,50,0,25,25,75,5,1
+Kyoka Jiro,55,5,7,25,30,25,1
+La Brava,55,1,5,15,50,10,1
+La Brava,70,8,25,25,20,70,1
+Lemillion,65,25,30,25,65,80,1
+Mashirao Ojiro,50,25,25,25,25,50,1
+Mei Hatsume,70,25,20,25,25,15,1
+Mezo Shoji,55,25,25,25,25,60,1
+Midnight,60,1,5,10,40,75,1
+Mina Ashido,55,13,25,25,40,50,1
+Minoru Mineta,55,1,25,25,30,55,1
+Mirko,60,50,40,35,50,50,1
+Momo Yaoyorozu,55,25,25,25,25,65,1
+Mount Lady,50,85,25,25,50,60,1
+Mr. Compress,60,10,25,25,25,25,1
+Ms. Joke,55,10,20,20,30,40,1
+Muscular,55,100,25,25,25,45,1
+Neito Monoma,60,10,20,15,50,10,1
+Nejire Hado,55,80,30,15,50,70,1
+Nezu,90,1,5,10,50,20,1
+Nirengeki Shoda,55,1,5,5,55,40,1
+Ochaco Uraraka,55,25,25,25,25,50,1
+Overhaul,65,100,35,30,85,70,1
+Pony Tsunotori,60,1,10,5,35,45,1
+Power Loader,55,1,35,15,30,65,1
+Present Mic,60,25,25,25,25,70,1
+Re-Destro,55,100,30,20,35,50,1
+Recovery Girl,70,1,1,5,50,20,1
+Reiko Yanagi,55,1,5,5,50,45,1
+Rikido Sato,55,80,25,25,30,50,1
+Rikiya Katsukame,45,100,30,25,25,45,1
+Seiji Shishikura,55,5,7,7,50,20,1
+Sen Kaibara,55,1,5,5,40,55,1
+Setsuna Tokage,55,1,10,10,55,40,1
+Shemage,50,1,5,5,50,20,1
+Shoto Todoroki,75,25,25,25,25,70,1
+Sir Nighteye,75,5,10,10,50,45,1
+Snipe,55,15,20,20,30,40,1
+Spinner,50,13,25,25,20,70,1
+Stain,55,25,25,25,25,85,1
+Star And Stripe,65,18,25,25,75,85,1
+Tamaki Amajiki,55,25,30,25,35,75,1
+Tenya Ida,55,25,35,25,35,70,1
+Tetsutetsu Tetsutetsu,55,25,5,25,35,55,1
+Thirteen,55,20,20,30,50,20,1
+Togaru Kamakiri,55,1,5,10,45,45,1
+Tomura Shigaraki (All For One),65,80,50,70,100,95,3
+Tomura Shigaraki,45,30,25,25,60,45,0
+Tsuyu Asui,60,25,25,25,25,45,1
+Twice,40,25,25,25,25,65,1
+Vantablack,55,1,5,10,50,20,1
+Vlad King,55,25,25,25,25,25,1
+Yosetsu Awase,55,1,5,5,45,45,1
+Yuga Aoyama,55,5,7,7,30,15,1
+Yui Kodai,55,1,5,5,55,45,1
+A.M.A.Z.O,85,100,100,100,100,90,8
+Abel Cuvier,55,35,25,25,25,50,2
+Ace,55,25,25,25,25,20,2
+Ace Arn,75,35,50,40,65,40,5
+Adam Strange,55,25,55,25,30,35,3
+Alfred Pennyworth,70,5,5,5,5,35,1
+All-Star,0,0,0,0,0,0,0
+Amanda Waller,70,5,1,25,5,25,1
+Amazo (Anti-life),100,100,100,100,100,100,9
+Aqua-Girl,0,0,0,0,0,0,0
+Aquaman,55,100,7,30,50,80,4
+Ares,0,0,0,0,0,0,0
+Aresia,65,30,25,25,25,95,2
+Atom,0,0,0,0,0,0,0
+B'wana Beast,0,0,0,0,0,0,0
+Baby-Doll,0,0,0,0,0,0,0
+Bane,55,55,19,13,30,60,1
+Bat-Mite,50,100,100,100,100,10,8
+Batgirl,0,0,0,0,0,0,0
+Batman,90,10,25,25,20,100,1
+Bibbo Bibbowski,45,5,1,5,5,45,1
+Big Barda,70,75,50,75,65,100,4
+Bizarro,0,0,0,0,0,0,0
+Black Adam,0,0,0,0,0,0,0
+Black Canary,65,5,5,15,20,85,2
+Black Mask,0,0,0,0,0,0,0
+Black Siren,0,0,0,0,0,0,0
+Booster Gold,55,45,50,55,65,45,5
+Boss Biggis,0,0,0,0,0,0,0
+Boxy Bennett,0,0,0,0,0,0,0
+Brainiac,100,75,70,60,80,35,5
+Brainiac 5,100,40,50,40,85,40,5
+Brainiac/Luthor (Brainiac fusion with Lex Luthor),0,0,0,0,0,0,0
+Brimstone,0,0,0,0,0,0,0
+Bronze Tiger,0,0,0,0,0,0,0
+Brother Blood (Power of the Titans),55,85,60,65,55,70,5
+Calendar Man,0,0,0,0,0,0,0
+Captain Clown,0,0,0,0,0,0,0
+Captain Marvel,80,100,100,45,75,45,3
+Catwoman,55,5,5,5,5,55,1
+Cheetah,0,0,0,0,0,0,0
+Chimera,0,0,0,0,0,0,0
+Chuckco,40,20,5,30,15,20,2
+Circe,75,35,30,40,75,35,3
+Clayface,45,25,17,25,30,45,1
+Commissioner Gordon,60,5,5,50,5,35,1
+Copperhead,65,5,15,15,20,35,2
+Count Dracula,0,0,0,0,0,0,0
+Darkseid,95,100,75,75,100,95,5
+Deadman,55,5,30,40,40,35,4
+Deadshot,55,6,6,5,10,50,1
+Desaad,75,30,75,40,45,45,4
+Despero,90,80,75,75,85,75,5
+Doctor Fate,55,6,85,55,100,55,6
+Doctor Light,65,5,25,25,30,20,2
+Doctor Psycho,85,1,10,10,40,15,1
+Doctor Psycho,50,100,90,100,100,65,5
+Dove,65,15,10,15,30,50,1
+Emerald Empress,0,0,0,0,0,0,0
+Emil Hamilton,80,1,5,5,10,15,1
+Emmylou,0,0,0,0,0,0,0
+Enrique El Gancho,0,0,0,0,0,0,0
+Etrigan,75,75,50,75,65,40,4
+Farmer Brown,0,0,0,0,0,0,0
+Farmer Brown,75,5,5,50,10,30,1
+Felix Faust,95,25,25,25,25,15,5
+Fire,55,10,30,15,45,45,3
+Flash,0,0,0,0,0,0,0
+Flash,80,1,100,15,65,9,1
+Flash,70,25,100,25,25,30,5
+Galatea,55,95,80,85,100,55,5
+Galius Zed,70,60,65,50,80,15,5
+General Eiling,0,0,0,0,0,0,0
+General Zod,0,0,0,0,0,0,0
+Gordon Godfrey,80,5,5,5,10,35,2
+Gorilla Grodd,80,25,10,25,25,35,3
+Granny Goodness,55,50,50,65,50,55,4
+Green Arrow,0,0,0,0,0,0,0
+Green Lantern,60,75,70,65,80,35,5
+Green Lantern,0,0,0,0,0,0,0
+Green Lantern,75,75,65,60,80,60,5
+Green Lantern,55,50,75,55,75,60,5
+Green Lantern,55,60,75,65,80,55,5
+Green Lantern,60,60,75,60,80,50,5
+Green Lantern,0,0,0,0,0,0,0
+Green Lantern,65,75,65,60,80,40,5
+Green Lantern,50,50,65,40,80,20,5
+Green Lantern,60,80,75,60,80,30,5
+Green Lantern,70,60,75,25,80,25,5
+Hades,90,6,95,100,100,80,6
+Harley Quinn,65,1,7,5,10,60,1
+Hawkgirl,65,25,50,25,60,65,3
+Hawkman,0,0,0,0,0,0,0
+Highfather,0,0,0,0,0,0,0
+Hotstreak,50,20,25,25,45,45,2
+Huntress,65,1,7,5,10,80,1
+Jax-Ur,65,6,100,85,95,85,6
+Jewelee,0,0,0,0,0,0,0
+Jimmy Olsen,50,1,1,5,5,10,1
+John Constantine,0,0,0,0,0,0,0
+Joker,70,1,8,17,10,35,1
+Jonah Hex,0,0,0,0,0,0,0
+Juice,0,0,0,0,0,0,0
+Kalibak,0,0,0,0,0,0,0
+KGBeast,55,6,6,10,10,80,1
+Killer Croc,55,6,6,13,35,40,1
+King Snake,0,0,0,0,0,0,0
+Lady Eve,0,0,0,0,0,0,0
+Lady Shiva,75,1,8,5,10,100,1
+Lex Luthor (Battlesuit),0,0,0,0,0,0,0
+Lex Luthor,95,100,25,25,30,50,1
+Livewire,50,25,30,25,25,25,3
+Lobo,0,0,0,0,0,0,0
+Lois Lane,60,1,5,5,10,35,1
+Lois Lane,0,0,0,0,0,0,0
+Long Shadow,0,0,0,0,0,0,0
+Mad Hatter,65,25,25,25,25,5,1
+Mano,0,0,0,0,0,0,0
+Martian Manhunter,60,100,25,25,60,20,4
+Medusa,80,25,25,25,25,35,3
+Medusa,0,0,0,0,0,0,0
+,100,100,95,95,100,35,8
+Merlin,0,0,0,0,0,0,0
+Metron,100,6,85,25,90,25,6
+Miss Martian,55,75,50,55,75,35,5
+Mister Freeze,85,6,6,13,30,19,1
+Mister Freeze,0,0,0,0,0,0,0
+Mister Mxyzptlk,0,0,0,0,0,0,0
+Mongul,75,80,65,65,65,85,4
+Montague Kane,0,0,0,0,0,0,0
+Mordred,0,0,0,0,0,0,0
+Mordru,100,100,100,100,100,45,8
+Morgaine Le Fay,0,0,0,0,0,0,0
+Ms. Clay,0,0,0,0,0,0,0
+Nightwing,0,0,0,0,0,0,0
+Nostromos,0,0,0,0,0,0,0
+O-Sensei,0,0,0,0,0,0,0
+Ocean Master,0,0,0,0,0,0,0
+Orchid,0,0,0,0,0,0,0
+Orion,80,75,70,85,80,65,5
+Overgirl,0,0,0,0,0,0,0
+Paradoom,35,6,90,95,85,45,6
+Parasite,0,0,0,0,0,0,0
+Penguin,60,6,6,13,20,50,1
+Persuader,65,30,25,25,25,45,4
+Phantom Stranger,100,100,100,25,100,25,8
+Philippus,55,35,25,25,65,85,4
+Poison Ivy,85,6,6,13,30,30,1
+Power Girl,65,95,75,90,100,45,5
+,0,0,0,0,0,0,0
+Professor Zoom,85,14,25,25,10,95,1
+Richard Dragon,0,0,0,0,0,0,0
+Rip Jagger,0,0,0,0,0,0,0
+Robin,0,0,0,0,0,0,0
+Robin,80,1,5,5,5,90,1
+Robin,80,5,20,10,10,90,1
+Roxy Rocket,0,0,0,0,0,0,0
+Saturn Girl,0,0,0,0,0,0,0
+Scarecrow,0,0,0,0,0,0,0
+Schlangenfaust,0,0,0,0,0,0,0
+Sewer King,0,0,0,0,0,0,0
+Sewer King,0,0,0,0,0,0,0
+Shifter,0,0,0,0,0,0,0
+Shifter,0,0,0,0,0,0,0
+Silverback,0,0,0,0,0,0,0
+Sin Tzu,95,20,15,25,25,100,2
+Sinestro,0,0,0,0,0,0,0
+Solomon Grundy,35,30,14,30,40,40,1
+Spectre,90,100,100,100,100,90,8
+Star Sapphire,0,0,0,0,0,0,0
+StarBoy,0,0,0,0,0,0,0
+Starfire,0,0,0,0,0,0,0
+Stargirl,60,25,75,25,25,65,2
+Static,0,0,0,0,0,0,0
+Steel,55,55,30,55,60,45,3
+Steppenwolf,0,0,0,0,0,0,0
+Sunny Jim,0,0,0,0,0,0,0
+Super Woman,85,6,100,100,100,90,6
+Supergirl,55,100,75,55,85,30,4
+Superior Man,0,0,0,0,0,0,0
+Superman (Weakened),80,5,11,25,25,85,1
+Superman,55,100,80,55,85,60,4
+Swamp Thing,0,0,0,0,0,0,0
+Talia Al Ghul,0,0,0,0,0,0,0
+Tharok,0,0,0,0,0,0,0
+The Floronic Man,65,50,25,25,40,45,3
+The Phantasm,70,1,5,10,10,75,1
+The Riddler,0,0,0,0,0,0,0
+The Talon,0,0,0,0,0,0,0
+Titano,35,95,25,25,50,20,2
+Toyman,80,5,5,15,40,15,1
+Tsukuri,0,0,0,0,0,0,0
+Tsukuri,0,0,0,0,0,0,0
+Ultra-Humanite,95,30,15,15,35,40,3
+Validus,0,0,0,0,0,0,0
+Vandal Savage,85,5,8,20,30,80,1
+Vibe,0,0,0,0,0,0,0
+Warlord,65,10,5,25,25,85,2
+Wildcat,55,10,10,10,10,80,1
+Wind Dragon,0,0,0,0,0,0,0
+Wonder Woman (Life Equation),100,100,100,100,100,10,9
+Wonder Woman,75,75,50,50,80,90,4
+Zatanna,80,6,80,60,100,80,6
+Aatrox (True Form),0,0,0,0,0,0,0
+Aatrox (Sealed),0,0,0,0,0,0,0
+Ahri,55,13,17,20,55,50,1
+Akali,70,1,8,20,20,80,1
+Alistar,45,6,6,25,40,45,1
+Amumu,45,1,1,5,20,45,1
+Anivia,0,0,0,0,0,0,0
+Annie,55,1,1,10,30,15,1
+Ashe,70,6,6,10,40,65,1
+Aurelion Sol,75,6,100,80,100,65,6
+Azir,0,0,0,0,0,0,0
+Bard,90,25,80,25,25,25,4
+Brand,60,25,8,25,70,70,3
+Braum,55,30,7,40,30,70,1
+Caitlyn,70,6,6,10,20,60,1
+Cassiopeia,65,25,8,25,60,35,1
+Cho'Gath,60,6,6,35,60,30,2
+Commander Ledros,65,25,9,25,30,80,1
+Corki,55,1,25,25,35,55,1
+Darius,60,25,7,25,15,80,1
+Draven,55,6,6,15,15,70,1
+Ekko,85,6,6,10,50,40,1
+Elise,60,25,20,25,30,35,1
+Evelynn,70,30,8,35,80,50,3
+Ezreal,65,1,8,15,50,30,1
+Fiora,60,1,7,10,10,90,1
+Fizz,55,5,20,15,55,70,1
+Galio,50,75,25,25,70,60,2
+Gangplank,55,6,6,25,25,55,1
+Garen,60,25,7,25,20,75,1
+Gnar,40,30,11,25,40,20,1
+Gragas,0,0,0,0,0,0,0
+Graves,50,6,6,15,20,70,1
+Gwen,60,1,10,15,50,40,1
+Hecarim,60,25,20,25,60,85,2
+Heimerdinger,0,0,0,0,0,0,0
+Illaoi,70,6,6,25,25,70,2
+Irelia,65,1,8,15,40,85,1
+Ivern,55,6,7,15,70,50,2
+Janna,55,55,25,25,80,30,3
+Jarvan IV,70,25,8,25,30,80,1
+Jax,55,75,35,40,40,100,2
+Jhin,75,1,17,25,25,70,1
+Jinx,60,15,20,20,30,75,1
+Kai'sa,55,25,17,25,70,85,2
+Kalista,65,13,14,25,60,85,2
+Karma,70,6,6,25,80,95,3
+Karthus,80,13,11,25,65,30,3
+Kassadin,65,25,11,25,70,75,2
+Katarina,65,8,8,10,15,85,1
+Kayle,55,75,14,35,80,85,3
+Kayn,70,25,25,25,25,95,1
+Kennen,65,5,25,25,60,95,1
+Kha'Zix,55,25,20,25,55,75,2
+Kindred,0,0,0,0,0,0,0
+Kled,55,5,15,25,25,80,1
+Kog'Maw,40,13,11,25,50,25,2
+LeBlanc,85,6,6,25,70,60,1
+Lee Sin,55,25,20,25,40,90,1
+Lillia,55,1,7,15,40,15,1
+Lissandra,75,8,7,30,80,90,3
+Lucian,60,8,8,10,20,70,1
+Lulu,65,6,6,10,40,20,1
+Lux,70,6,6,15,50,20,1
+Malphite,55,75,11,40,70,40,2
+Malzahar,75,13,11,35,80,30,3
+Maokai,60,30,1,30,60,30,1
+Master Kusho,60,25,25,25,25,90,1
+Master Yi,65,25,25,25,25,95,2
+Miss Fortune,55,25,8,25,25,55,1
+Mordekaiser,70,50,17,35,80,85,3
+Morgana,55,75,14,30,80,55,3
+Nami,65,1,20,25,50,25,1
+Nasus,0,0,0,0,0,0,0
+Nautilus,55,75,10,40,55,30,2
+Neeko,55,6,6,15,60,35,1
+Nidalee,60,5,12,15,35,70,1
+Nocturne,65,25,25,25,25,50,2
+Nunu,40,30,8,20,50,20,1
+Olaf,55,25,8,25,35,80,1
+Ornn,0,0,0,0,0,0,0
+Pantheon,0,0,0,0,0,0,0
+Poppy,60,25,7,25,25,70,2
+Pyke,60,13,19,15,45,45,1
+Qiyana,80,6,6,20,70,65,1
+Quinn,60,1,7,10,20,70,1
+Rakan,55,10,8,15,60,60,1
+Rek'Sai,55,65,17,30,55,60,2
+Rell,60,30,7,25,60,60,2
+Renekton,0,0,0,0,0,0,0
+Rengar,65,25,14,25,25,75,1
+Riven,60,25,7,25,50,75,1
+Rumble,80,6,6,25,40,40,1
+Ryze,75,5,8,40,75,85,3
+Samira,60,8,7,15,20,85,1
+Sejuani,65,25,8,25,40,70,1
+Senna,60,6,6,15,45,45,1
+Sett,50,25,5,25,15,70,1
+Shaco,50,1,1,25,25,30,1
+Shen,60,25,25,25,25,85,1
+Shyvana,55,40,25,25,25,55,2
+Silco,60,6,7,7,10,40,1
+Sion,55,30,19,35,55,70,2
+Sona,65,6,6,10,70,20,1
+Swain,85,25,11,25,25,85,2
+Sylas,55,25,7,25,60,55,1
+Syndra,65,75,10,30,80,65,3
+Tahm Kench,55,6,6,50,80,55,3
+Talon,65,10,8,15,20,90,1
+Taric,0,0,0,0,0,0,0
+Teemo,70,1,20,10,30,60,1
+Thresh,90,6,6,25,80,40,3
+Tristana,70,1,11,25,25,70,1
+Trundle,55,30,8,20,30,60,1
+Tryndamere,60,25,9,25,35,80,1
+Twisted Fate,65,6,6,10,40,50,1
+Udyr,0,0,0,0,0,0,0
+Urgot,60,6,6,25,25,50,1
+Varus,0,0,0,0,0,0,0
+Vayne,60,25,25,25,25,85,1
+Veigar,75,1,1,10,70,20,1
+Vel'Koz,90,6,6,25,25,20,2
+Vex,55,1,1,20,55,30,1
+Vi,60,25,7,25,20,65,1
+Viego,55,75,50,55,85,55,4
+Viktor,90,6,6,25,65,35,1
+Vladimir,75,6,6,25,25,60,2
+Volibear,0,0,0,0,0,0,0
+Warwick,50,25,10,25,30,65,1
+Wukong,65,25,7,25,40,85,1
+Xayah,65,10,8,15,50,75,1
+Xerath,0,0,0,0,0,0,0
+Xin Zhao,60,6,7,10,10,95,1
+Yasuo,55,5,19,15,50,100,2
+Yone,55,6,17,15,60,95,1
+Yorick,55,25,7,25,25,50,2
+Yuumi,50,1,8,10,60,10,1
+Zed,60,25,25,25,25,90,1
+Zyra,60,6,6,25,65,65,2
+A.M.A.Z.O.,0,0,0,0,0,0,0
+Abra Kadabra,0,0,0,0,0,0,0
+Abra Kadabra,0,0,0,0,0,0,0
+Agent Liberty,0,0,0,0,0,0,0
+Alex Danvers,0,0,0,0,0,0,0
+Alice,75,1,1,10,10,70,1
+Allegra Garcia,0,0,0,0,0,0,0
+Alura In-Ze,0,0,0,0,0,0,0
+Amanda Waller,0,0,0,0,0,0,0
+Amenadiel (Power Of God),100,100,7,100,100,100,7
+Amenadiel,100,25,50,25,80,100,4
+Amunet Black,0,0,0,0,0,0,0
+Anarky,0,0,0,0,0,0,0
+Anatoly Knyazev,0,0,0,0,0,0,0
+Andrea Rojas,0,0,0,0,0,0,0
+Andy Diggle,0,0,0,0,0,0,0
+Anne Marie Flynn,0,0,0,0,0,0,0
+Anti-Monitor,100,100,7,100,100,80,7
+Arsenal,0,0,0,0,0,0,0
+Artemis,0,0,0,0,0,0,0
+Artemis Crock,0,0,0,0,0,0,0
+Astra,60,100,100,90,90,75,3
+Astra Logue,0,0,0,0,0,0,0
+Atom,85,25,25,25,25,40,1
+Atom Smasher,0,0,0,0,0,0,0
+Atropos,0,0,0,0,0,0,0
+Ava Sharpe,0,0,0,0,0,0,0
+Azrael,100,25,50,25,70,100,4
+Baron Reiter,0,0,0,0,0,0,0
+Batman,85,14,25,25,10,100,1
+Batwing,0,0,0,0,0,0,0
+Batwoman,70,5,11,10,15,75,1
+Batwoman II,0,0,0,0,0,0,0
+Beelzebub,0,0,0,0,0,0,0
+Behrad Tarazi,0,0,0,0,0,0,0
+Belial,0,0,0,0,0,0,0
+Bizarro,0,0,0,0,0,0,0
+Bizarro-Girl,0,0,0,0,0,0,0
+Black Canary,0,0,0,0,0,0,0
+Black Canary II,60,6,6,10,30,70,1
+Black Flash,0,0,0,0,0,0,0
+Black Lightning,75,10,11,15,35,70,1
+Black Mask,0,0,0,0,0,0,0
+Black Pirate,0,0,0,0,0,0,0
+Black Siren (Earth Two),70,10,11,10,20,80,1
+Blackout,65,6,6,25,35,45,1
+Blackstar,0,0,0,0,0,0,0
+Bloodsport,0,0,0,0,0,0,0
+Bloodwork,0,0,0,0,0,0,0
+Booster Gold,0,0,0,0,0,0,0
+Brainiac 5,0,0,0,0,0,0,0
+Brainwave,0,0,0,0,0,0,0
+Breacher,0,0,0,0,0,0,0
+Brick,0,0,0,0,0,0,0
+Bronze Tiger,0,0,0,0,0,0,0
+Brother Blood,0,0,0,0,0,0,0
+Bug Eyed Bandit,0,0,0,0,0,0,0
+Canary,45,6,6,5,10,45,1
+Captain Boomerang,55,25,25,25,25,70,1
+Captain Cold,0,0,0,0,0,0,0
+Captain Luthor,55,75,55,35,60,65,3
+Carson Williams,0,0,0,0,0,0,0
+Cat Grant,0,0,0,0,0,0,0
+Chas Chandler,0,0,0,0,0,0,0
+Chillblaine,0,0,0,0,0,0,0
+China White,0,0,0,0,0,0,0
+Chloe Decker (The Key),55,6,6,20,60,55,4
+Chronos,0,0,0,0,0,0,0
+Cicada,0,0,0,0,0,0,0
+Cicada II,0,0,0,0,0,0,0
+Citizen Steel,0,0,0,0,0,0,0
+Clive Yorkin,0,0,0,0,0,0,0
+Clock King (William Tockman),0,0,0,0,0,0,0
+Clotho,0,0,0,0,0,0,0
+Cluemaster,0,0,0,0,0,0,0
+Commander Steel,0,0,0,0,0,0,0
+Connor Hawke,0,0,0,0,0,0,0
+Constantine,75,5,11,20,40,70,2
+Constantine Drakon,0,0,0,0,0,0,0
+Count Vertigo,0,0,0,0,0,0,0
+Cupid,0,0,0,0,0,0,0
+Cyborg Superman,0,0,0,0,0,0,0
+Damien Darhk,0,0,0,0,0,0,0
+Damien Darhk(Idol Full Power),0,0,0,0,0,0,0
+Dark Archer,0,0,0,0,0,0,0
+Dark Arrow,25,1,1,25,0,60,1
+Dark Flash,0,0,0,0,0,0,0
+Deadshot,0,0,0,0,0,0,0
+Deathstroke,60,25,19,25,10,95,1
+Deathstroke II,0,0,0,0,0,0,0
+Deon Owens,0,0,0,0,0,0,0
+Despero,0,0,0,0,0,0,0
+Detective Chloe Decker,55,6,5,6,5,45,1
+Detective Espinosa,50,5,5,5,10,30,1
+Detective West,0,0,0,0,0,0,0
+Doctor Alchemy,0,0,0,0,0,0,0
+Doctor Mid-Nite,0,0,0,0,0,0,0
+Doctor Mid-Nite,0,0,0,0,0,0,0
+Dollmaker,0,0,0,0,0,0,0
+Double Down,0,0,0,0,0,0,0
+Dr. Shiro Ito,0,0,0,0,0,0,0
+Dragon,0,0,0,0,0,0,0
+Dreamer,0,0,0,0,0,0,0
+Eclipso,0,0,0,0,0,0,0
+Ella Lopez,75,6,6,8,5,15,1
+Elongated Man,0,0,0,0,0,0,0
+Emiko Queen,0,0,0,0,0,0,0
+Eradicator,75,100,80,50,75,70,4
+Eve,75,1,7,7,0,85,1
+Felicity Smoak,0,0,0,0,0,0,0
+Felix Faust,0,0,0,0,0,0,0
+Fiddler,0,0,0,0,0,0,0
+Firefly,0,0,0,0,0,0,0
+Firestorm,0,0,0,0,0,0,0
+Firestorm,80,30,30,40,80,40,3
+First Of The Fallen,0,0,0,0,0,0,0
+Flash,0,0,0,0,0,0,0
+Flash,85,25,100,25,85,60,4
+Floronic Man,0,0,0,0,0,0,0
+Fuerza,0,0,0,0,0,0,0
+Gabriel,0,0,0,0,0,0,0
+Gambler,0,0,0,0,0,0,0
+Gary Green,0,0,0,0,0,0,0
+Geomancer,0,0,0,0,0,0,0
+Girder,0,0,0,0,0,0,0
+Giselle Cutter,0,0,0,0,0,0,0
+Goddess Of All Creation,100,100,7,100,100,40,7
+Godspeed,0,0,0,0,0,0,0
+Golden Glider,0,0,0,0,0,0,0
+Gorilla Grodd,60,14,19,30,30,20,1
+Green Arrow,80,5,18,13,12,100,1
+Green Arrow,65,1,7,10,10,85,1
+Green Lantern,0,0,0,0,0,0,0
+Gridlock,0,0,0,0,0,0,0
+Guardian,0,0,0,0,0,0,0
+Guardian II,0,0,0,0,0,0,0
+Gypsy,0,0,0,0,0,0,0
+Hanjobadiel,0,0,0,0,0,0,0
+Harbinger,0,0,0,0,0,0,0
+Harrison Wells,0,0,0,0,0,0,0
+Hawkgirl,0,0,0,0,0,0,0
+Hawkman,0,0,0,0,0,0,0
+Heat Wave,0,0,0,0,0,0,0
+Hourman,0,0,0,0,0,0,0
+Human Target,0,0,0,0,0,0,0
+Huntress,60,1,1,5,5,40,1
+Hush,0,0,0,0,0,0,0
+Icicle,0,0,0,0,0,0,0
+Icicle,0,0,0,0,0,0,0
+Impulse (CW),0,0,0,0,0,0,0
+Indigo,0,0,0,0,0,0,0
+Iris West,0,0,0,0,0,0,0
+Jack,0,0,0,0,0,0,0
+Jack,0,0,0,0,0,0,0
+Jade,0,0,0,0,0,0,0
+Jesse Quick,0,0,0,0,0,0,0
+Jim Corrigan,0,0,0,0,0,0,0
+Joe Wilson,0,0,0,0,0,0,0
+John Deegan,0,0,0,0,0,0,0
+Jonah Hex,0,0,0,0,0,0,0
+Jonathan Kent,0,0,0,0,0,0,0
+Jordan Kent,50,25,25,25,25,5,2
+Kane Wolfman,0,0,0,0,0,0,0
+Kara Fowdy,0,0,0,0,0,0,0
+Katana,0,0,0,0,0,0,0
+Kid Flash,0,0,0,0,0,0,0
+Kilgore,0,0,0,0,0,0,0
+Killer Croc,50,10,7,15,15,35,1
+King,0,0,0,0,0,0,0
+King,0,0,0,0,0,0,0
+King Shark,0,0,0,0,0,0,0
+Komodo,0,0,0,0,0,0,0
+Konstantin Kovar,0,0,0,0,0,0,0
+Lachesis,0,0,0,0,0,0,0
+Lady Vic,0,0,0,0,0,0,0
+Lady Vic,0,0,0,0,0,0,0
+Lena Luthor (Magic),0,0,0,0,0,0,0
+Leslie Larr,0,0,0,0,0,0,0
+Lex Luthor,85,6,6,8,20,10,1
+Lightning,0,0,0,0,0,0,0
+Linda Park,0,0,0,0,0,0,0
+Livewire,0,0,0,0,0,0,0
+Lois Lane,0,0,0,0,0,0,0
+Looker,0,0,0,0,0,0,0
+Lucifer Morningstar (Flaming Sword),100,6,7,35,100,100,7
+Lucifer Morningstar,100,30,50,35,80,100,2
+Luke Fox,0,0,0,0,0,0,0
+Mad Hatter,0,0,0,0,0,0,0
+Madame Xanadu,0,0,0,0,0,0,0
+Magenta,55,6,6,10,20,10,1
+Mallus,0,0,0,0,0,0,0
+Manchester Black,0,0,0,0,0,0,0
+Manny,0,0,0,0,0,0,0
+Marcus Pierce,0,0,0,0,0,0,0
+Marquis Jet,0,0,0,0,0,0,0
+Martha Kent,0,0,0,0,0,0,0
+Martian Manhunter,55,100,55,20,80,80,3
+Maxima,0,0,0,0,0,0,0
+Maxwell Lord,0,0,0,0,0,0,0
+Maze,60,5,8,15,50,85,1
+Metallo,0,0,0,0,0,0,0
+Michael Demiurgos (Flaming Sword),0,0,0,0,0,0,0
+Michael Demiurgos,100,25,100,25,60,90,4
+Mirror Master,0,0,0,0,0,0,0
+Mirror Monarch,0,0,0,0,0,0,0
+Miss Martian,0,0,0,0,0,0,0
+Mister Mxyzptlk,0,0,0,0,0,0,0
+Mister Terrific,0,0,0,0,0,0,0
+Mister Zsasz,0,0,0,0,0,0,0
+Mnemoth,0,0,0,0,0,0,0
+Mon-El,0,0,0,0,0,0,0
+Morgan Edge,0,0,0,0,0,0,0
+Murmur,0,0,0,0,0,0,0
+Music Meister,0,0,0,0,0,0,0
+Naomi,0,0,0,0,0,0,0
+Nash Wells,0,0,0,0,0,0,0
+Neron,0,0,0,0,0,0,0
+Non,0,0,0,0,0,0,0
+Nora Darhk,0,0,0,0,0,0,0
+Norvok,0,0,0,0,0,0,0
+Nyssa Al Ghul,0,0,0,0,0,0,0
+Nyxly,0,0,0,0,0,0,0
+Ocean,0,0,0,0,0,0,0
+Overgirl,40,75,50,40,30,80,5
+Painkiller,0,0,0,0,0,0,0
+Papa Midnite,0,0,0,0,0,0,0
+Parasite,0,0,0,0,0,0,0
+Pariah,55,75,75,55,60,50,4
+Percy Odell,0,0,0,0,0,0,0
+Pied Piper,0,0,0,0,0,0,0
+Plastique,60,5,1,10,15,15,1
+Plunder,0,0,0,0,0,0,0
+Poison Ivy,0,0,0,0,0,0,0
+Poison Ivy,0,0,0,0,0,0,0
+Professor Ivo,0,0,0,0,0,0,0
+Professor Pyg,0,0,0,0,0,0,0
+Prometheus,0,0,0,0,0,0,0
+Psych,0,0,0,0,0,0,0
+Psycho Pirate,0,0,0,0,0,0,0
+Queen,0,0,0,0,0,0,0
+Queen,0,0,0,0,0,0,0
+Quentin Lance,0,0,0,0,0,0,0
+Ra's Al Ghul,60,25,25,25,25,70,1
+Ragman,0,0,0,0,0,0,0
+Rainbow Raider,0,0,0,0,0,0,0
+Ravager,0,0,0,0,0,0,0
+Reactron,0,0,0,0,0,0,0
+Red Tornado,0,0,0,0,0,0,0
+Reign,80,100,95,65,80,80,3
+Remiel,80,25,50,25,70,95,4
+Renee Montoya,0,0,0,0,0,0,0
+Reverb,0,0,0,0,0,0,0
+Reverse Flash,100,30,100,35,70,85,4
+Rhea,0,0,0,0,0,0,0
+Rip Hunter,0,0,0,0,0,0,0
+Rory,65,25,50,25,60,65,2
+Rupture,0,0,0,0,0,0,0
+Ryan Choi,0,0,0,0,0,0,0
+S.T.R.I.P.E.,0,0,0,0,0,0,0
+Sam Lane,0,0,0,0,0,0,0
+Sand Demon,0,0,0,0,0,0,0
+Sarab,0,0,0,0,0,0,0
+Saturn Girl,0,0,0,0,0,0,0
+Savitar,90,45,100,50,100,45,4
+Sentinel,0,0,0,0,0,0,0
+Shade,0,0,0,0,0,0,0
+Shado,0,0,0,0,0,0,0
+Shiv,0,0,0,0,0,0,0
+Silver Banshee,0,0,0,0,0,0,0
+Solomon Grundy,0,0,0,0,0,0,0
+Solovar,0,0,0,0,0,0,0
+Spartan,65,1,1,10,10,65,1
+Spectre,100,100,7,100,100,100,7
+Speed Force,0,0,0,0,0,0,0
+Speedy,0,0,0,0,0,0,0
+Spooner,0,0,0,0,0,0,0
+Sportsmaster,0,0,0,0,0,0,0
+Stargirl,0,0,0,0,0,0,0
+Steel,0,0,0,0,0,0,0
+Stephanie Brown,0,0,0,0,0,0,0
+Sue Dibny,0,0,0,0,0,0,0
+Superboy,0,0,0,0,0,0,0
+Supergirl,80,100,80,60,80,70,4
+Superman,55,100,70,55,75,60,4
+Tag Harris,0,0,0,0,0,0,0
+Talia Al Ghul,55,25,25,25,25,70,1
+Tar-Pit,0,0,0,0,0,0,0
+Tattooed Man,0,0,0,0,0,0,0
+Ten,0,0,0,0,0,0,0
+Ten,0,0,0,0,0,0,0
+The Dodger,0,0,0,0,0,0,0
+The Flash,70,10,75,30,80,60,3
+The Mist,0,0,0,0,0,0,0
+The Monitor,0,0,0,0,0,0,0
+The Presence,100,100,7,100,100,100,7
+The Ray,0,0,0,0,0,0,0
+The Rival,0,0,0,0,0,0,0
+The Silencer,0,0,0,0,0,0,0
+The Thinker,0,0,0,0,0,0,0
+The Top,0,0,0,0,0,0,0
+Thunder,0,0,0,0,0,0,0
+Thunderbolt,0,0,0,0,0,0,0
+Tigress,0,0,0,0,0,0,0
+Tobias Church,0,0,0,0,0,0,0
+Tobias Whale,0,0,0,0,0,0,0
+Tokamak,0,0,0,0,0,0,0
+Tori Whale,0,0,0,0,0,0,0
+Trajectory,0,0,0,0,0,0,0
+Trickster,0,0,0,0,0,0,0
+Turtle,0,0,0,0,0,0,0
+Ultraviolet,0,0,0,0,0,0,0
+Uriel,55,55,100,50,100,100,4
+Vandal Savage,0,0,0,0,0,0,0
+Vibe,0,0,0,0,0,0,0
+Vigilante,0,0,0,0,0,0,0
+Vixen,0,0,0,0,0,0,0
+Vixen II,0,0,0,0,0,0,0
+Weather Wizard,0,0,0,0,0,0,0
+White Canary,0,0,0,0,0,0,0
+Wild Dog,0,0,0,0,0,0,0
+Wildcat,0,0,0,0,0,0,0
+Wildcat,0,0,0,0,0,0,0
+William Clayton,0,0,0,0,0,0,0
+Winn Schott,0,0,0,0,0,0,0
+Wizard,0,0,0,0,0,0,0
+Wolfie,0,0,0,0,0,0,0
+Xotar,0,0,0,0,0,0,0
+XS,0,0,0,0,0,0,0
+XS (Negative Speed Force),0,0,0,0,0,0,0
+Yao Fei,0,0,0,0,0,0,0
+Zadkiel,100,6,50,40,70,100,6
+Zari Tomaz,0,0,0,0,0,0,0
+Zed Martin,0,0,0,0,0,0,0
+Zoom,80,30,50,30,65,35,4
+Allen,55,100,80,55,40,100,4
+Angstrom Levy,95,20,25,25,25,50,3
+Anissa,70,100,75,50,45,45,4
+Aquarus,0,0,0,0,0,0,0
+Atom Eve,75,1,25,25,85,30,1
+Battle Beast,60,100,100,60,80,85,4
+,0,0,0,0,0,0,0
+Bi-Plane,0,0,0,0,0,0,0
+Brit,0,0,0,0,0,0,0
+Britney,0,0,0,0,0,0,0
+Bulletproof,55,75,55,45,40,45,3
+Cast Iron,0,0,0,0,0,0,0
+Cecil Stedman,0,0,0,0,0,0,0
+D.A. Sinclair,0,0,0,0,0,0,0
+Damien Darkblood,0,0,0,0,0,0,0
+Darkwing,0,0,0,0,0,0,0
+Derek Sanders,0,0,0,0,0,0,0
+Dinosaurus,75,100,50,60,60,80,4
+Doc Seismic,0,0,0,0,0,0,0
+Donald Ferguson,0,0,0,0,0,0,0
+Dupli-Kate,0,0,0,0,0,0,0
+El Chupacabra,0,0,0,0,0,0,0
+Embrace,0,0,0,0,0,0,0
+General Kregg,0,0,0,0,0,0,0
+Giant,0,0,0,0,0,0,0
+Grand Regent Thragg,75,100,100,70,85,90,5
+Gravitator,0,0,0,0,0,0,0
+Green Ghost,0,0,0,0,0,0,0
+Gridlock,0,0,0,0,0,0,0
+Hail Mary,0,0,0,0,0,0,0
+Invincible,70,100,100,75,75,70,5
+Invincible,0,0,0,0,0,0,0
+Invincible,0,0,0,0,0,0,0
+Japandroid,0,0,0,0,0,0,0
+Kaboomerang,0,0,0,0,0,0,0
+Kid Invincible,60,100,75,50,50,70,4
+Kid Omni-Man,70,100,70,45,40,45,4
+Kid Thor,0,0,0,0,0,0,0
+Killcannon,0,0,0,0,0,0,0
+Knockout,0,0,0,0,0,0,0
+Kursk,0,0,0,0,0,0,0
+Le Brusier,0,0,0,0,0,0,0
+Machine Head,0,0,0,0,0,0,0
+Magmaniac,0,0,0,0,0,0,0
+Martian Man,55,35,30,25,25,70,2
+Master Mind,0,0,0,0,0,0,0
+Mauler,90,80,40,40,30,75,2
+Mister Liu,0,0,0,0,0,0,0
+Monax,0,0,0,0,0,0,0
+Monster Girl,55,65,30,40,40,55,3
+Multi-Paul,0,0,0,0,0,0,0
+Octoboss,0,0,0,0,0,0,0
+Omni-Man,80,100,100,70,80,90,5
+Onaan,55,100,70,45,35,45,4
+Outrun,0,0,0,0,0,0,0
+Pegasus,0,0,0,0,0,0,0
+Powerplex,70,10,25,25,40,50,3
+Reanimen,20,80,45,40,40,45,3
+Red Devil,0,0,0,0,0,0,0
+Red Eye,0,0,0,0,0,0,0
+Red Rush,0,0,0,0,0,0,0
+Rex-Splode,60,25,17,25,30,70,1
+Robot,90,100,50,60,70,60,4
+Set,0,0,0,0,0,0,0
+Shapesmith,0,0,0,0,0,0,0
+Shrinking Ray,0,0,0,0,0,0,0
+Slaying Mantis,0,0,0,0,0,0,0
+Supreme Leader Cho,0,0,0,0,0,0,0
+Terra Grayson,65,100,85,50,45,45,4
+Tether Tyrant,0,0,0,0,0,0,0
+Thaedus,80,100,75,50,45,45,4
+The Immortal,95,75,100,70,70,90,4
+Thoth,0,0,0,0,0,0,0
+Titan,70,30,17,35,30,75,1
+Universa,55,95,70,55,40,95,4
+Ursaal,0,0,0,0,0,0,0
+Volcanikka,0,0,0,0,0,0,0
+Walking Dread,0,0,0,0,0,0,0
+War Woman,55,75,50,45,40,45,3
+Wolf-Man,55,55,50,35,40,50,3
+Yeti,0,0,0,0,0,0,0
