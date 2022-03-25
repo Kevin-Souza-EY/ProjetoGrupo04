@@ -1,0 +1,23 @@
+git remote add origin https://RafaelNascimento1@dev.azure.com/RafaelNascimento1/DDA%20-%20Estagi%C3%A1rios%20-%20GR%2004/_git/DDA%20-%20Estagi%C3%A1rios%20-%20GR%2004
+
+
+git remote add origin https://github.com/Kevin-Souza-EY/ProjetoGrupo04.git
+
+DDA - Estagiários - GR 04
+
+
+git add .
+
+git commit -m "Comentario"
+
+git push -u origin --all
+
+git push -u origin main
+
+
+
+//Remover Caminhos
+
+git remote -v
+
+git remote remove origin
