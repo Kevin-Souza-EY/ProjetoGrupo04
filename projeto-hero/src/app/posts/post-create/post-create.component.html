@@ -1,0 +1,57 @@
+<mat-card>
+  <form (submit)="onAddPost(postForm)" #postForm="ngForm">
+    <mat-form-field>
+      <input
+       matInput
+       type="text"
+       name="tittle"
+       ngModel
+       required
+       minlength="3"
+       placeholder="Nome do Heroi"
+       #tittle="ngModel">
+       <mat-error *ngIf="tittle.invalid">Adicione o nome do Heroi</mat-error>
+    </mat-form-field>
+
+    <mat-form-field>
+      <textarea
+      matInput
+      rows="3"
+      name="content"
+      ngModel
+      required
+      placeholder="Caracteristica do Heroi"
+      #content="ngModel"></textarea>
+      <mat-error *ngIf="content.invalid">Adicione a caracteristica do Heroi</mat-error>
+    </mat-form-field>
+
+    <mat-form-field>
+      <textarea
+      matInput
+      rows="3"
+      name="power"
+      ngModel
+      required
+      placeholder="Poderes do Heroi"
+      #content="ngModel"></textarea>
+      <mat-error *ngIf="content.invalid">Adicione a caracteristica do Heroi</mat-error>
+    </mat-form-field>
+
+    <mat-form-field>
+      <textarea
+      matInput
+      rows="3"
+      name="universe"
+      ngModel
+      required
+      placeholder="Universo do Heroi"
+      #content="ngModel"></textarea>
+      <mat-error *ngIf="content.invalid">Adicione caracteristicas para o Heroi!</mat-error>
+    </mat-form-field>
+
+    <button mat-raised-button
+    color="primary"
+    type="submit">Save</button>
+  </form>
+
+</mat-card>

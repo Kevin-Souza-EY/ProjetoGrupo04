@@ -1,0 +1,17 @@
+<mat-accordion multi="true" *ngIf="posts.length > 0">
+  <mat-expansion-panel *ngFor="let post of posts">
+    <mat-expansion-panel-header>
+      {{ 'Nome: ' + post.tittle }}
+    </mat-expansion-panel-header>
+      {{ 'Caracteristica: ' + post.content }}
+      <p></p>
+      {{ 'Poderes: ' + post.power }}
+      <p></p>
+      {{ 'Universo: ' + post.universe }}
+      <mat-action-row>
+        <button mat-button color="primary">EDITAR</button>
+        <button mat-button color="warn">EXCLUIR</button>
+      </mat-action-row>
+  </mat-expansion-panel>
+</mat-accordion>
+<p class="info-text mat-body-1" *ngIf="posts.length <= 0">Nenhum Heroi adicionado!</p>
