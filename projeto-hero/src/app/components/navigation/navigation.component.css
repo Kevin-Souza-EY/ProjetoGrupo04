@@ -6,10 +6,7 @@ mat-toolbar {
 
 span {
   margin-left: 24 px;
-}
-
-div {
-  color: #12b6d1;
+  color: rgb(255, 255, 255);
 }
 
 h1 {

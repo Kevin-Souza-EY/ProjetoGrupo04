@@ -1,47 +1,37 @@
-<div class="~container panel panel-default">
-  <h1 class="">SUPER HERO MANAGER</h1>
-  <button href="home.component.css">Home</button>
-  <button href="login.component.html">Login</button>
-  <button href="cadastro.component.html">Cadastros</button>
-  <button href="lista.component.html">Listas</button>
-</div>
-
-<mat-toolbar color="accent">
+<mat-toolbar color="primary">
   <span>
     <a routerLink="/">
-      <span>Herois</span>
+      <span>Home</span>
     </a>
   </span>
-
   <span>
     <a
-      *ngIf="isAuthenticated"
       routerLinkActive="active-link"
-      routerLink="/lista"
-    >
-      <span>Lista</span>
+      routerLink="/post-list">
+      <span> Lista </span>
     </a>
-
+    <a
+      routerLinkActive="active-link"
+      routerLink="/post-create">
+      <span> Criar </span>
+    </a>
     <a
       *ngIf="!isAuthenticated"
       routerLinkActive="active-link"
-      routerLink="/login"
-    >
-      <span>Login</span>
+      routerLink="/login" >
+      <span> Login </span>
     </a>
     <a
       *ngIf="isAuthenticated"
       (click)="logout()"
       routerLinkActive="active-link"
-      routerLink="/login"
-    >
-      <span>Logout</span>
+      routerLink="/login">
+      <span> Logout </span>
     </a>
     <a
       *ngIf="!isAuthenticated"
       routerLinkActive="active-link"
-      routerLink="/cadastro"
-    >
+      routerLink="/cadastro">
       <span>Cadastro</span>
     </a>
   </span>
