@@ -1,0 +1,22 @@
+mat-form-field {
+  width: 100%;
+}
+
+button {
+  float: right;
+  width: 200px;
+}
+
+div {
+  color: #12b6d1;
+}
+
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 100px;
+}
+
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 100px;
+}

@@ -1,0 +1,48 @@
+<div class="~container panel panel-default">
+  <h1 class="">SUPER HERO MANAGER</h1>
+  <button href="home.component.css">Home</button>
+  <button href="login.component.html">Login</button>
+  <button href="cadastro.component.html">Cadastros</button>
+  <button href="lista.component.html">Listas</button>
+</div>
+
+<mat-toolbar color="accent">
+  <span>
+    <a routerLink="/">
+      <span>Herois</span>
+    </a>
+  </span>
+
+  <span>
+    <a
+      *ngIf="isAuthenticated"
+      routerLinkActive="active-link"
+      routerLink="/lista"
+    >
+      <span>Lista</span>
+    </a>
+
+    <a
+      *ngIf="!isAuthenticated"
+      routerLinkActive="active-link"
+      routerLink="/login"
+    >
+      <span>Login</span>
+    </a>
+    <a
+      *ngIf="isAuthenticated"
+      (click)="logout()"
+      routerLinkActive="active-link"
+      routerLink="/login"
+    >
+      <span>Logout</span>
+    </a>
+    <a
+      *ngIf="!isAuthenticated"
+      routerLinkActive="active-link"
+      routerLink="/cadastro"
+    >
+      <span>Cadastro</span>
+    </a>
+  </span>
+</mat-toolbar>

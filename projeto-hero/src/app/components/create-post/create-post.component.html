@@ -1,0 +1,43 @@
+<div class="~container panel panel-default">
+  <h1 class="">SUPER HERO MANAGER</h1>
+  <button href="home.component.css">Home</button>
+  <button href="login.component.html">Login</button>
+  <button href="cadastro.component.html">Cadastros</button>
+  <button href="lista.component.html">Listas</button>
+</div>
+
+<button (click)="isOpen = !isOpen" mat-raised-button color="accent">
+  <mat-icon>Adicionar</mat-icon> Criar Herois
+</button>
+
+<form
+  *ngIf="isOpen"
+  [formGroup]="form"
+  #formDirective="ngForm"
+  (ngSubmit)="onSubmit(form.value)"
+  novalidate
+>
+  <mat-form-field>
+    <mat-label>Nome Heroi</mat-label>
+    <input matInput placeholder="Nome Heroi" formControlName="username" />
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>Poder Heroi</mat-label>
+    <input matInput placeholder="Poder Heroi" formControlName="poder" />
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>Universo Heroi</mat-label>
+    <input matInput placeholder="Poder Heroi" formControlName="universo" />
+  </mat-form-field>
+
+  <button
+    color="accent"
+    [disabled]="!form.valid"
+    mat-raised-button
+    type="submit"
+  >
+    <span>Lista</span>
+  </button>
+</form>

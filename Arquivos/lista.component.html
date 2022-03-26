@@ -1,0 +1,21 @@
+<div class="~container panel panel-default">
+  <h1 class="">SUPER HERO MANAGER</h1>
+  <button href="home.component.css">Home</button>
+  <button href="login.component.html">Login</button>
+  <button href="cadastro.component.html">Cadastros</button>
+  <button href="lista.component.html">Listas</button>
+</div>
+
+<app-create-post (create)="createLista()"></app-create-post>
+
+<mat-card *ngFor="let lista of lista$ | async">
+  <button *ngIf="lista.username === id_user" mat-icon-button>
+    <mat-icon (click)="delete(lista.id_user)" color="warn">Excluir</mat-icon>
+  </button>
+
+  <div class="lista-username">{{ lista.username }}</div>
+  <div class="lista-data_cadastro"> {{ lista.data_cadastro }}<div>
+  <div class="lista-poder">{{ lista.poder}}</div>
+  <div class="lista-universo">{{ lista.universo}}</div>
+</mat-card>
+
