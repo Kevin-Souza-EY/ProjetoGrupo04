@@ -33,8 +33,8 @@
       ngModel
       required
       placeholder="Poderes do Heroi"
-      #content="ngModel"></textarea>
-      <mat-error *ngIf="content.invalid">Adicione a caracteristica do Heroi</mat-error>
+      #power="ngModel"></textarea>
+      <mat-error *ngIf="power.invalid">Adicione a poderes do Heroi</mat-error>
     </mat-form-field>
 
     <mat-form-field>
@@ -45,10 +45,10 @@
       ngModel
       required
       placeholder="Universo do Heroi"
-      #content="ngModel"></textarea>
-      <mat-error *ngIf="content.invalid">Adicione caracteristicas para o Heroi!</mat-error>
+      #universe="ngModel"></textarea>
+      <mat-error *ngIf="universe.invalid">Adicione caracteristicas para o Heroi!</mat-error>
     </mat-form-field>
-
+<h1></h1>
     <button mat-raised-button
     color="primary"
     type="submit">Save</button>

@@ -1,6 +1,9 @@
 mat-form-field {
+  text-align: left;
   width: 100%;
-  margin: 1rem auto;
+  margin: auto;
+  background-color: aliceblue;
+  padding: 16px;
 }
 
 button {

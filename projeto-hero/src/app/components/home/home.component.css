@@ -1,5 +1,5 @@
 div {
-  color: #12b6d1;
+  color: #000000;
 }
 
 h1 {
@@ -11,8 +11,9 @@ p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   padding: 100px;
 }
+mat-card {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+}
 
-.background{
-  background: url(https://cdn.leroymerlin.com.br/products/papel_de_parede_lavavel_flores_brancas_em_fundo_rosa_18m_1567366502_4f7f_600x600.jpg) no-repeat center center fixed;
-  background-size: cover; /*Css padrão*/ -webkit-background-size: cover; /*Css safari e chrome*/ -moz-background-size: cover; /*Css firefox*/ -ms-background-size: cover;
-  /*Css IE não use mer#^@%#*/ -o-background-size: cover; /*Css Opera*/}

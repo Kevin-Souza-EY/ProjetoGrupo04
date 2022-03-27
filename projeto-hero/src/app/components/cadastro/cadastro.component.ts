@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
-
 import { AuthService } from 'src/app/services/auth.service';
-
 import { Router } from '@angular/router';
 
 @Component({
@@ -17,7 +15,6 @@ export class CadastroComponent implements OnInit {
 
   ngOnInit(): void {
    this.cadastroForm = this.createFormGroup();
-
   }
 
   createFormGroup(): FormGroup{

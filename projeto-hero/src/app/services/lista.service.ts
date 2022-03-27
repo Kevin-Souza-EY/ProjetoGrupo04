@@ -26,15 +26,15 @@ export class ListaService {
     );
   }
 
-  createPost(formData: Partial<Lista>, id_user: Pick<User, "id_user">): Observable<Lista>{
+  createPost(formData: Partial<Lista>, id_user: Pick<User, "id">): Observable<Lista>{
     return this.http.post<Lista>(this.url, { username: formData.username, poder: formData.poder, universo: formData.universo, id_user: id_user }, this.httpOptions).pipe(
       catchError(this.errorHandlerService.handleError<Lista>("createPost"))
     );
 
   }
 
-  deletePost(idherois: Pick<Lista, "id_heroi">): Observable<{}>{
-    return this.http.delete<Lista>('${this.ur}/$(id_heroi}', this.httpOptions).pipe(
+  deletePost(idherois: Pick<Lista, "id">): Observable<{}>{
+    return this.http.delete<Lista>('${this.ur}/$(id}', this.httpOptions).pipe(
       first(),
       catchError(this.errorHandlerService.handleError<Lista>("deletePost"))
     );

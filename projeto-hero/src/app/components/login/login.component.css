@@ -1,5 +1,13 @@
+mat-card {
+  width: 100%;
+  margin: auto;
+}
+
+
 mat-form-field {
   width: 100%;
+  background-color: aliceblue;
+  margin: auto;
 }
 
 button {

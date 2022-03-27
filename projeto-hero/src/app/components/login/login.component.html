@@ -1,13 +1,9 @@
-<div class="~container panel panel-default">
-  <h1 class="">SUPER HERO MANAGER</h1>
-</div>
-
 <form [formGroup]="loginForm" (ngSubmit)="login()" novalidate>
+<mat-card>
   <mat-form-field>
     <mat-label>Email</mat-label>
     <input matInput placeholder="Email Usuario" formControlName="email" />
   </mat-form-field>
-
   <mat-form-field>
     <mat-label>Senha</mat-label>
     <input
@@ -17,7 +13,6 @@
       formControlName="psw"
     />
   </mat-form-field>
-
   <button
     color="primary"
     [disabled]="!loginForm.valid"
@@ -26,4 +21,5 @@
   >
     <span>Login</span>
   </button>
+</mat-card>
 </form>

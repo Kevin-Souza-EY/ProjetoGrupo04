@@ -1,9 +1,10 @@
 :host {
   display: block;
-  margin-top: 1rem;
+  margin-top: auto;
 }
 
 .info-text {
   margin: auto;
   text-align: center;
+  background-color: aliceblue;
 }

@@ -1,11 +1,7 @@
 import { Component, OnInit, ViewChild, Output, EventEmitter } from '@angular/core';
-
 import { FormControl, FormGroup, NgForm, Validators } from '@angular/forms';
-
 import { first } from 'rxjs/operators';
-
 import { Lista } from 'src/app/models/Lista';
-
 import { AuthService } from 'src/app/services/auth.service';
 import { ListaService } from 'src/app/services/lista.service';
 
@@ -26,7 +22,6 @@ export class CreatePostComponent implements OnInit {
 
   ngOnInit(): void {
     this.form = this.createFormGroup();
-
   }
 
   createFormGroup(): FormGroup{
@@ -39,7 +34,7 @@ export class CreatePostComponent implements OnInit {
 
   onSubmit(formData: Pick<Lista,"username" | "poder" | "universo">): void
   {
-      this.listaService.createPost(formData, this.authService.id_user).pipe(first()).subscribe(() => {
+      this.listaService.createPost(formData, this.authService.id).pipe(first()).subscribe(() => {
       this.create.emit(null);
     });
     this.form.reset();

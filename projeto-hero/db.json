@@ -1,0 +1,48 @@
+{
+  "herois": [
+    {
+      "id": 1,
+      "nome": "All-might",
+      "poder": [
+        "One For All",
+        "All For One"
+      ],
+      "universo": "My Hero Academy",
+      "createDate": "2022-03-26"
+    },
+    {
+      "id": 2,
+      "nome": "Tete",
+      "poder": [
+        "Testar",
+        "Procastinar"
+      ],
+      "universo": "My Hero Academy",
+      "createDate": "2022-03-26"
+    },
+    {
+      "id": 3,
+      "nome": "Tete",
+      "poder": [
+        "Testar",
+        "Procastinar"
+      ],
+      "universo": "My Hero Academy",
+      "createDate": "2022-03-26"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "maria",
+      "senha": "Minha senha",
+      "email": "meuemail@email.com"
+    },
+    {
+      "id": 2,
+      "nome": "joao",
+      "senha": "Minha senha",
+      "email": "meuemail@email.com"
+    }
+  ]
+}

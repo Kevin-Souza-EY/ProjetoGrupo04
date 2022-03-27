@@ -1,8 +1,9 @@
 import { Component, OnDestroy, OnInit } from "@angular/core";
 import { Subscription } from 'rxjs';
-
 import { Post } from '../post.model';
 import { PostsService } from '../posts.service';
+import { Lista } from '/Development/ProjetoGrupo04/projeto-hero/src/app/models/Lista';
+import { User } from '/Development/ProjetoGrupo04/projeto-hero/src/app/models/User';
 
 @Component({
   selector: 'app-post-list',
@@ -18,6 +19,8 @@ export class PostListComponent implements OnInit, OnDestroy {
  //  ];
 
   posts: Post[] = [];
+  herois: Lista[] = [];
+  usuarios: User[] = [];
   private postsSub: Subscription;
 
  constructor(public postsService: PostsService) {
@@ -26,6 +29,20 @@ export class PostListComponent implements OnInit, OnDestroy {
 
  ngOnInit() {
    this.posts = this.postsService.getPosts();
+
+ getHerois(): {
+ this.postsService.getHerois().subscribe((herois: Lista[]) => {
+   this.herois = herois;
+ });
+}
+
+ getUsuarios(): {
+  this.postsService.getUsuarios().subscribe((usuarios: User[]) => {
+    this.usuarios = usuarios;
+  });
+}
+
+
    this.postsSub = this.postsService.getPostUpdateListener()
     .subscribe((posts: Post[]) => {
       this.posts = posts;

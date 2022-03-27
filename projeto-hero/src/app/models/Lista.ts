@@ -1,8 +1,8 @@
 export interface Lista
 {
-  id_heroi : number;
+  id : number;
   username: string;
-  poder: string;
+  poder: [string];
   universo: string;
   data_cadastro: Date;
 }

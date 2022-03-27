@@ -4,6 +4,7 @@ main {
 }
 
 .background{
-  background: url(https://cdn.leroymerlin.com.br/products/papel_de_parede_lavavel_flores_brancas_em_fundo_rosa_18m_1567366502_4f7f_600x600.jpg) repeat center center;
-  background-size: cover; /*Css padrão*/ -webkit-background-size: cover; /*Css safari e chrome*/ -moz-background-size: cover; /*Css firefox*/ -ms-background-size: cover;
-  /*Css IE não use mer#^@%#*/ -o-background-size: cover; /*Css Opera*/}
+  height: 1000px;
+  background: url(https://wallpaperforu.com/wp-content/uploads/2021/07/Wallpaper-Anime-My-Hero-Academia-Eijiro-Kirishima-Izuku232048x1152.jpg) repeat center;
+  background-size: 100%; background-size: cover;
+}
