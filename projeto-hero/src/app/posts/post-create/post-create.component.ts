@@ -22,9 +22,9 @@ export class PostCreateComponent {
     }
     this.postsService.addPost(
       form.value.tittle,
-      form.value.content,
       form.value.power,
-      form.value.universe
+      form.value.universe,
+      form.value.content
       );
     form.resetForm()
   }

@@ -1,9 +1,10 @@
 import { Component, OnDestroy, OnInit } from "@angular/core";
-import { Subscription } from 'rxjs';
+ // import { Subscription } from 'rxjs';
 import { Post } from '../post.model';
 import { PostsService } from '../posts.service';
 import { Lista } from '/Development/ProjetoGrupo04/projeto-hero/src/app/models/Lista';
 import { User } from '/Development/ProjetoGrupo04/projeto-hero/src/app/models/User';
+import { NgForm } from '@angular/forms';
 
 @Component({
   selector: 'app-post-list',
@@ -19,37 +20,101 @@ export class PostListComponent implements OnInit, OnDestroy {
  //  ];
 
   posts: Post[] = [];
-  herois: Lista[] = [];
-  usuarios: User[] = [];
-  private postsSub: Subscription;
 
- constructor(public postsService: PostsService) {
-   this.postsSub = new Subscription()
- }
+  heroi = {} as Lista;
+  herois: Lista[];
+
+  usuario = {} as User;
+  usuarios: User[];
+  // private postsSub: Subscription;
+
+ constructor(private postsService: PostsService) {}
+   //this.postsSub = new Subscription()}
 
  ngOnInit() {
-   this.posts = this.postsService.getPosts();
+   this.getHeroi();
+ }
 
- getHerois(): {
- this.postsService.getHerois().subscribe((herois: Lista[]) => {
-   this.herois = herois;
- });
+ ngOnDestroy() {}
+   //this.posts = this.postsService.getPosts();}
+
+ // -----defini se um heroi será criado ou atualizado------
+ saveHeroi(form: NgForm) {
+  if (this.heroi.id !== undefined) {
+    this.postsService.updateHeroi(this.heroi).subscribe(() => {
+      this.cleanFormHeroi(form);
+    });
+  } else {
+    this.postsService.saveHeroi(this.heroi).subscribe(() => {
+      this.cleanFormHeroi(form);
+    });
+  }
+}
+ // Banco de Herois
+
+ // Chama o serviço para obter todos os herois
+ getHeroi() {
+  this.postsService.getHeroi().subscribe((herois: Lista[]) => {
+    this.herois = herois;
+  });
 }
 
- getUsuarios(): {
-  this.postsService.getUsuarios().subscribe((usuarios: User[]) => {
+// deleta um heroi
+deleteHeroi(heroi: Lista) {
+  this.postsService.deleteHeroi(heroi).subscribe(() => {
+    this.getHeroi();
+  });
+}
+
+// copia o heroi para ser editado.
+editHeroi(heroi: Lista) {
+  this.heroi = { ...heroi };
+}
+
+// limpa o formulario
+cleanFormHeroi(form: NgForm) {
+  this.getHeroi();
+  form.resetForm();
+  this.heroi = {} as Lista;
+}
+
+ // --------Banco de Usuarios----------
+
+// defini se um usuario será criado ou atualizado
+saveUser(form: NgForm) {
+  if (this.usuario.id !== undefined) {
+    this.postsService.updateUser(this.usuario).subscribe(() => {
+      this.cleanFormUser(form);
+    });
+  } else {
+    this.postsService.saveUser(this.usuario).subscribe(() => {
+      this.cleanFormUser(form);
+    });
+  }
+}
+ // comando para chamar todos usuarios
+ getUser() {
+  this.postsService.getUser().subscribe((usuarios: User[]) => {
     this.usuarios = usuarios;
   });
 }
 
+// deleta um usuario
+deleteUser(usuario: User) {
+  this.postsService.deleteUser(usuario).subscribe(() => {
+    this.getUser();
+  });
+}
 
-   this.postsSub = this.postsService.getPostUpdateListener()
-    .subscribe((posts: Post[]) => {
-      this.posts = posts;
-    });
- }
+// copia o usuario para ser editado.
+editUser(usuario: User) {
+  this.usuario = { ...usuario };
+}
 
- ngOnDestroy(): void {
-   this.postsSub.unsubscribe();
- }
+// limpa o formulario
+cleanFormUser(form: NgForm) {
+  this.getUser();
+  form.resetForm();
+  this.usuario = {} as User;
+}
 }

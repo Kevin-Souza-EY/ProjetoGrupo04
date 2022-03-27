@@ -17,18 +17,6 @@
       <textarea
       matInput
       rows="3"
-      name="content"
-      ngModel
-      required
-      placeholder="Caracteristica do Heroi"
-      #content="ngModel"></textarea>
-      <mat-error *ngIf="content.invalid">Adicione a caracteristica do Heroi</mat-error>
-    </mat-form-field>
-
-    <mat-form-field>
-      <textarea
-      matInput
-      rows="3"
       name="power"
       ngModel
       required
@@ -48,6 +36,20 @@
       #universe="ngModel"></textarea>
       <mat-error *ngIf="universe.invalid">Adicione caracteristicas para o Heroi!</mat-error>
     </mat-form-field>
+
+    <mat-form-field>
+      <textarea
+      type="Data"
+      matInput
+      rows="3"
+      name="content"
+      ngModel
+      required
+      placeholder="Data de criacao do Heroi"
+      #content="ngModel"></textarea>
+      <mat-error *ngIf="content.invalid">Adicione a data de criacao do Heroi</mat-error>
+    </mat-form-field>
+
 <h1></h1>
     <button mat-raised-button
     color="primary"

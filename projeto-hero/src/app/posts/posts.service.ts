@@ -24,14 +24,14 @@ export class PostsService {
   private postsUpdated = new Subject<Post[]>();
 
    // Obtendo todos os herois
-  getHerois(): Observable<Lista[]> {
+  getHeroi(): Observable<Lista[]> {
     return this.httpClient.get<Lista[]>(this.url_herois)
     .pipe(
       retry(2),
       catchError(this.handleError))
   }
     // Obtendo herois pelo ID
-  getHeroisById(id: number): Observable<Lista> {
+  getHeroiById(id: number): Observable<Lista> {
     return this.httpClient.get<Lista>(this.url_herois + '/' + id)
       .pipe(
         retry(2),
@@ -67,7 +67,7 @@ saveHeroi(heroi: Lista): Observable<Lista> {
   }
 
   // Obtendo todos os usuários
-  getUsuarios(): Observable<User[]> {
+  getUser(): Observable<User[]> {
     return this.httpClient.get<User[]>(this.url_usuarios)
     .pipe(
       retry(2),
@@ -84,7 +84,7 @@ getUserById(id: number): Observable<User> {
 }
 
 // salvando um usuario
-saveUsuario(usuario: User): Observable<User> {
+saveUser(usuario: User): Observable<User> {
   return this.httpClient.post<User>(this.url_usuarios, JSON.stringify(usuario), this.httpOptions)
     .pipe(
       retry(2),
@@ -92,7 +92,7 @@ saveUsuario(usuario: User): Observable<User> {
     )
 }
 
-// utualiza ndo um usuario
+// utualizando um usuario
 updateUser(usuario: User): Observable<User> {
   return this.httpClient.put<User>(this.url_usuarios + '/' + usuario.id, JSON.stringify(usuario), this.httpOptions)
     .pipe(

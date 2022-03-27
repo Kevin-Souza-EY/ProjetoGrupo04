@@ -1,9 +1,8 @@
 mat-form-field {
   text-align: left;
   width: 100%;
-  margin: auto;
+  margin: 0;
   background-color: aliceblue;
-  padding: 16px;
 }
 
 button {
@@ -22,5 +21,5 @@ h1 {
 
 p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  padding: 100px;
+  padding: 0;
 }

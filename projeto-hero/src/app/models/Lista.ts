@@ -1,6 +1,6 @@
 export interface Lista
 {
-  id : number;
+  id: number;
   username: string;
   poder: [string];
   universo: string;

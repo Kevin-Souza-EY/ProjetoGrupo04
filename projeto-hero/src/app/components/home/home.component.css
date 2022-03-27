@@ -4,16 +4,20 @@ div {
 
 h1 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  padding: 100px;
+  padding: auto;
+  text-align: center;
+  text-decoration: dotted;
+  background-color: rgb(255, 246, 127);
 }
 
 p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  padding: 100px;
+  padding: auto;
 }
 mat-card {
   width: 80%;
   text-align: center;
   margin: auto;
+  text-decoration-line: underline;
 }
 
