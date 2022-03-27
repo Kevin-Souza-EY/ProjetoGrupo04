@@ -1,0 +1,47 @@
+CREATE TABLE usuario (
+id_user INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+username VARCHAR(55) NOT NULL,
+email VARCHAR(55) NOT NULL,
+psw VARBINARY(1000) NOT NULL
+);
+
+CREATE TABLE universo (
+id_universo INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+universo VARCHAR(55) NOT NULL
+);
+
+CREATE TABLE poderes (
+id_poder INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+poder VARCHAR(55) NOT NULL
+);
+
+CREATE TABLE herois (
+id_heroi INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+heroi VARCHAR(55) NOT NULL,
+inteligencia INT,
+forca INT,
+velocidade INT,
+resistencia INT,
+poder INT,
+combate INT,
+nivel INT,
+lado VARCHAR(5),
+genero VARCHAR(10),
+data_cadastro TIMESTAMP NOT NULL,
+id_universo INT NOT NULL,
+id_poder INT NOT NULL,
+id_user INT NOT NULL,
+FOREIGN KEY (id_universo )REFERENCES universo(id_universo) ON UPDATE CASCADE ON DELETE CASCADE,
+FOREIGN KEY (id_poder) REFERENCES poderes(id_poder) ON UPDATE CASCADE ON DELETE CASCADE,
+FOREIGN KEY (id_user) REFERENCES usuario(id_user)
+);
+
+CREATE TABLE heroi_poder (
+id_hpoder INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+id_heroi INT NOT NULL,
+id_poder INT NOT NULL,
+FOREIGN KEY (id_heroi) REFERENCES herois(id_heroi) ON UPDATE CASCADE ON DELETE CASCADE,
+FOREIGN KEY (id_poder) REFERENCES poderes(id_poder) ON UPDATE CASCADE ON DELETE CASCADE
+);
+
+
